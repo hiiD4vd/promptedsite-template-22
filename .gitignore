@@ -1,5 +1,24 @@
-.DS_Store
+# Dependencies
+node_modules/
+dist/
+
+# Logs
 *.log
-__pycache__/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Editor
+.DS_Store
 .vscode/
 .idea/
+__pycache__/
+
+# Tooling / Scratch
+server.py
+raw_index.html
+reference/
+verification/
+deobfuscated/
+deobfuscated_b7t/
+deobfuscated_dcgk/
