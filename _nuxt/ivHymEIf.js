@@ -1,0 +1,1 @@
+import{aa as s,o,J as r,v as a}from"./DGk6hhCZ.js";const n={};function t(e,c){return o(),r("ul",null,[a(e.$slots,"default")])}const _=Object.assign(s(n,[["render",t]]),{__name:"ProseUl"});export{_ as default};
